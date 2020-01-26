@@ -1,0 +1,1 @@
+superset-init --username admin --firstname admin --lastname admin --email admin --password admin
